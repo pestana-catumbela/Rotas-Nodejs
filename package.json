@@ -1,0 +1,21 @@
+{
+  "name": "return",
+  "version": "1.0.0",
+  "description": "return",
+  "main": "return",
+  "scripts": {
+    "test": "return"
+  },
+  "repository": {
+    "type": "git",
+    "url": "return"
+  },
+  "keywords": [
+    "return"
+  ],
+  "author": "devPPC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
